@@ -1,51 +1,58 @@
 # Hi, I'm Prakash 👋
 
-### Frontend Developer
+### Junior Full Stack Developer
 
-I'm a BCA graduate passionate about web development and building responsive, user-friendly web applications.
+BCA graduate passionate about building responsive, user-friendly web applications and full-stack solutions.
 
-### 🛠️ Skills
+🌐 **Live Portfolio:** [PRISM – Interactive Full Stack Developer Portfolio](https://prism-portfolio-ten.vercel.app)
 
-* HTML5
-* CSS3
-* JavaScript
-* Responsive Web Design
-* Git & GitHub
-* GitHub Pages
+✨ Explore my projects, technical skills, experience, and Nova AI virtual assistant.
 
-### 🚀 Projects
+### 🛠️ Technical Skills
 
-**CodSoft Web Development Internship**
-Completed frontend projects including:
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js
+- Node.js, Express.js
+- MongoDB
+- REST APIs
+- Git, GitHub
+- Responsive Web Design
 
-* Personal Portfolio
-* Landing Page
-* Calculator
-* JobBoard – Online Job Portal
+### 🚀 Featured Projects
 
-**To-Do List**
-A simple task management application with add and delete functionality.
+**1. PRISM – Interactive Developer Portfolio**
+- React-based portfolio with a human-like 3D virtual assistant named Nova.
+- Includes interactive text and voice experiences.
+- [Live Website](https://prism-portfolio-ten.vercel.app)
 
-### 🔗 Connect With Me
+**2. Project Management Tool**
+- Full-stack application built using React.js, Node.js, Express.js, and MongoDB.
+- Create projects, assign tasks, manage deadlines, and track progress.
 
-* GitHub: https://github.com/prakash7395
+**3. Job Board**
+- Responsive job portal built using HTML, CSS, and JavaScript.
+- Includes job search and filtering features.
+
+**4. Interactive Calculator**
+- Calculator built using HTML, CSS, and JavaScript.
+
+### 🎓 Education
+
+Bachelor of Computer Applications (BCA)  
+Thiruvalluvar University | 2021–2024
+
+### 💼 Experience
+
+- Web Development Intern – CodSoft (Sep 2026 – Oct 2026)
+- Deputy Manager – IDFC FIRST Bank
+- Business Development Officer – Equitas Small Finance Bank
 
 ### 🎯 Career Goal
 
-Currently developing my frontend development skills and looking for opportunities to grow as a Frontend Developer.
-## Hi there 👋
+Currently seeking Junior Full Stack Developer opportunities where I can apply my technical skills, build real-world applications, and continue growing as a developer.
 
-<!--
-**prakash7395/prakash7395** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔗 Connect With Me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **GitHub:** https://github.com/prakash7395
+- **LinkedIn:** https://www.linkedin.com/in/prakash-c-4946852ba/
+- **Portfolio:** https://prism-portfolio-ten.vercel.app
